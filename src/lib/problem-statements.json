@@ -1,0 +1,975 @@
+[
+	{
+		"id": 1,
+		"org": "Ministry of Development of North Eastern Region (MoDoNER)",
+		"title": "Smart Community Health Monitoring and Early Warning System for Water-Borne Diseases in Rural Northeast India",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 2,
+		"org": "Ministry of Development of North Eastern Region (MoDoNER)",
+		"title": "Smart Tourist Safety Monitoring & Incident Response System using AI Geo-Fencing and Blockchain-based Digital ID",
+		"category": "Software",
+		"theme": "Travel & Tourism"
+	},
+	{
+		"id": 3,
+		"org": "Ministry of Development of North Eastern Region (MoDoNER)",
+		"title": "Low-Cost smart transportation solution for Agri produce from remote farms to nearest motorable road in NER Region",
+		"category": "Hardware",
+		"theme": "Transportation & Logistics"
+	},
+	{
+		"id": 4,
+		"org": "Ministry of Fisheries Animal Husbandry & Dairying",
+		"title": "Image based breed recognition for cattle and buffaloes of India",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 5,
+		"org": "Ministry of Fisheries Animal Husbandry & Dairying",
+		"title": "Image based Animal Type Classification for cattle and buffaloes",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 6,
+		"org": "Ministry of Fisheries Animal Husbandry & Dairying",
+		"title": "Development of a Digital Farm Management Portal for Implementing Biosecurity Measures in Pig and Poultry Farms",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 7,
+		"org": "Ministry of Fisheries Animal Husbandry & Dairying",
+		"title": "Development of a Digital Farm Management Portal for Monitoring Maximum Residue Limits (MRL) and Antimicrobial Usage (AMU) in Livestock",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 8,
+		"org": "Government of Punjab",
+		"title": "Disaster Preparedness and Response Education System for Schools and Colleges",
+		"category": "Software",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 9,
+		"org": "Government of Punjab",
+		"title": "Gamified Environmental Education Platform for Schools and Colleges",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 10,
+		"org": "Government of Punjab",
+		"title": "Smart Crop Advisory System for Small and Marginal Farmers",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 11,
+		"org": "Government of Punjab",
+		"title": "Smart Curriculum Activity & Attendance App",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 12,
+		"org": "Government of Punjab",
+		"title": "Automated Attendance System for Rural Schools",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 13,
+		"org": "Government of Punjab",
+		"title": "Real-Time Public Transport Tracking for Small Cities",
+		"category": "Software",
+		"theme": "Transportation & Logistics"
+	},
+	{
+		"id": 14,
+		"org": "Government of Punjab",
+		"title": "Waste Segregation Monitoring System for Urban Local Bodies",
+		"category": "Hardware",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 15,
+		"org": "Government of Punjab",
+		"title": "Intelligent Pesticide Sprinkling System Determined by the Infection Level of a Plant",
+		"category": "Hardware",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 16,
+		"org": "Government of Punjab",
+		"title": "Automated Student Attendance Monitoring and Analytics System for Colleges",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 17,
+		"org": "Government of Punjab",
+		"title": "Digital Platform for Centralized Alumni Data Management and Engagement",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 18,
+		"org": "Government of Punjab",
+		"title": "Telemedicine Access for Rural Healthcare in Nabha",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 19,
+		"org": "Government of Punjab",
+		"title": "Digital Learning Platform for Rural School Students in Nabha",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 20,
+		"org": "Ministry of Railways",
+		"title": "Development of indigenous contactless Integrated Track Monitoring Systems (ITMS) for Track Recording on Indian Railways",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 21,
+		"org": "Ministry of Railways",
+		"title": "AI based development of Laser based QR Code marking on track fittings on Indian Railways",
+		"category": "Hardware",
+		"theme": "Transportation & Logistics"
+	},
+	{
+		"id": 22,
+		"org": "Ministry of Railways",
+		"title": "Maximizing Section Throughput Using AI-Powered Precise Train Traffic Control",
+		"category": "Software",
+		"theme": "Transportation & Logistics"
+	},
+	{
+		"id": 23,
+		"org": "Ministry of Ayush",
+		"title": "Ayur Sutra- Panchakarma Patient Management and therapy scheduling Software",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 24,
+		"org": "Ministry of Ayush",
+		"title": "Comprehensive Cloud-Based Practice Management & Nutrient Analysis Software for Ayurvedic Dietitians Tailored for Ayurveda-Focused Diet Plans",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 25,
+		"org": "Ministry of Ayush",
+		"title": "E tongue for Dravya identification",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 26,
+		"org": "Ministry of Ayush",
+		"title": "Develop API code to integrate NAMASTE and or the International Classification of Diseases (ICD-11) via the Traditional Medicine Module 2 (TM2) into existing EMR systems that comply with Electronic Health Record (EHR) Standards for India",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 27,
+		"org": "Ministry of Ayush",
+		"title": "Develop a blockchain-based system for botanical traceability of Ayurvedic herbs including geo-tagging from the point of collection (farmers/wild collectors) to the final Ayurvedic formulation label",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 28,
+		"org": "Government of Jharkhand",
+		"title": "Smart Classroom & Timetable Scheduler",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 29,
+		"org": "Government of Jharkhand",
+		"title": "Authenticity Validator for Academia",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 30,
+		"org": "Government of Jharkhand",
+		"title": "AI-Based Crop Recommendation for Farmers",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 31,
+		"org": "Government of Jharkhand",
+		"title": "Crowdsourced Civic Issue Reporting and Resolution System",
+		"category": "Software",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 32,
+		"org": "Government of Jharkhand",
+		"title": "Development of a Smart Digital Platform to Promote Eco & Cultural Tourism in Jharkhand",
+		"category": "Software",
+		"theme": "Travel & Tourism"
+	},
+	{
+		"id": 33,
+		"org": "Ministry of Corporate Affairs",
+		"title": "AI-Based Smart Allocation Engine for PM Internship Scheme",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 34,
+		"org": "Ministry of Corporate Affairs",
+		"title": "AI-Based Internship Recommendation Engine for PM Internship Scheme",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 35,
+		"org": "Ministry of Earth Sciences (MoES)",
+		"title": "Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics",
+		"category": "Software",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 36,
+		"org": "Ministry of Earth Sciences (MoES)",
+		"title": "AI-Driven Unified Data Platform for Oceanographic Fisheries and Molecular Biodiversity Insights",
+		"category": "Software",
+		"theme": "Renewable / Sustainable Energy"
+	},
+	{
+		"id": 37,
+		"org": "Ministry of Earth Sciences (MoES)",
+		"title": "Embedded Intelligent Microscopy System for Identification and Counting of Microscopic Marine Organisms",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 38,
+		"org": "Government of Odisha",
+		"title": "AI-Powered Crop Yield Prediction and Optimization",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 39,
+		"org": "Government of Odisha",
+		"title": "Blockchain-Based Supply Chain Transparency for Agricultural Produce",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 40,
+		"org": "Government of Odisha",
+		"title": "Smart Waste Segregation and Recycling System",
+		"category": "Hardware",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 41,
+		"org": "Government of Odisha",
+		"title": "Disaster Response Drone for Remote Areas",
+		"category": "Hardware",
+		"theme": "Robotics and Drones"
+	},
+	{
+		"id": 42,
+		"org": "Government of Odisha",
+		"title": "Gamified Learning Platform for Rural Education",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 43,
+		"org": "Government of Odisha",
+		"title": "AI-Driven Public Health Chatbot for Disease Awareness",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 44,
+		"org": "Government of Odisha",
+		"title": "Smart Traffic Management System for Urban Congestion",
+		"category": "Software",
+		"theme": "Transportation & Logistics"
+	},
+	{
+		"id": 45,
+		"org": "Government of Odisha",
+		"title": "Renewable Energy Monitoring System for Microgrids",
+		"category": "Hardware",
+		"theme": "Renewable / Sustainable Energy"
+	},
+	{
+		"id": 46,
+		"org": "Government of Odisha",
+		"title": "AR-Based Cultural Heritage Preservation Platform",
+		"category": "Software",
+		"theme": "Heritage & Culture"
+	},
+	{
+		"id": 47,
+		"org": "Ministry of Consumer Affairs Food & Public Distribution (MoCA F&PD)",
+		"title": "Improved Onion storage technology for enhancing shelf life of onions",
+		"category": "Hardware",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 48,
+		"org": "Ministry of Consumer Affairs Food & Public Distribution (MoCA F&PD)",
+		"title": "Automated High-Current Short-Circuit Test System for MCB to comply with IEC 60898-1:2015",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 49,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Real life solutions for Waste Management",
+		"category": "Software",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 50,
+		"org": "Government of Sikkim",
+		"title": "Digitize and Showcase Monasteries of Sikkim for Tourism and Cultural Preservation",
+		"category": "Software",
+		"theme": "Travel & Tourism"
+	},
+	{
+		"id": 51,
+		"org": "Government of Sikkim",
+		"title": "Implementation of Smart Agriculture for Efficient Cultivation in Hilly Regions",
+		"category": "Hardware",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 52,
+		"org": "Government of Kerala",
+		"title": "Developing a cost-effective solution for detecting the breakage of Low Voltage AC Distribution Over Head conductors",
+		"category": "Hardware",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 53,
+		"org": "Government of Kerala",
+		"title": "Improving the Renewable Energy hosting capacity in Distribution Feeders improving the Power quality of Distribution network during high RE injection",
+		"category": "Hardware",
+		"theme": "Renewable / Sustainable Energy"
+	},
+	{
+		"id": 54,
+		"org": "Ministry of Jal Shakti",
+		"title": "Designing and development of an application for on spot assessment of Roof Top Rain water harvesting and artificial recharge potential and size of the RTRWH and AR",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 55,
+		"org": "Ministry of Jal Shakti",
+		"title": "Development of an AI-driven ChatBOT for INGRES as a virtual assistant",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 56,
+		"org": "Ministry of Mines",
+		"title": "AI-Based Rockfall Prediction and Alert System for Open-Pit Mines",
+		"category": "Software",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 57,
+		"org": "Ministry of Mines",
+		"title": "Design and Implementation of Solar-Powered Dewatering in Mining Operations",
+		"category": "Hardware",
+		"theme": "Renewable / Sustainable Energy"
+	},
+	{
+		"id": 58,
+		"org": "Ministry of Youth Affairs and Sports",
+		"title": "AI-Powered Mobile Platform for Democratizing Sports Talent Assessment",
+		"category": "Software",
+		"theme": "Fitness & Sports"
+	},
+	{
+		"id": 59,
+		"org": "Government of Kerala",
+		"title": "AI-Powered Personal Farming Assistant for Kerala Farmers",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 60,
+		"org": "Government of Kerala",
+		"title": "Gamified Platform to Promote Sustainable Farming Practices",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 61,
+		"org": "Government of Kerala",
+		"title": "AI-Based Farmer Query Support and Advisory System",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 62,
+		"org": "Government of Kerala",
+		"title": "A hardware that can detect and prevent unauthorized use of electric fences",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 63,
+		"org": "Government of Kerala",
+		"title": "Software other than a circuit breaker that can be used to detect and turn off LT lines when the line breaks",
+		"category": "Software",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 64,
+		"org": "Government of Kerala",
+		"title": "Document Overload at Kochi Metro Rail Limited (KMRL)-An automated solution",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 65,
+		"org": "Government of Kerala",
+		"title": "AI-Driven Train Induction Planning & Scheduling for Kochi Metro Rail Limited (KMRL)",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 66,
+		"org": "Government of Kerala",
+		"title": "Development of a travel related software app that can be installed on mobile phones that could capture trip related information",
+		"category": "Software",
+		"theme": "Travel & Tourism"
+	},
+	{
+		"id": 67,
+		"org": "Government of Kerala",
+		"title": "Digital Health Record Management System for migrant workers in Kerala aligned with sustainable development goals",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 68,
+		"org": "Government of Kerala",
+		"title": "Earthquake stabilised dialysis system for patient safety during seismic events",
+		"category": "Hardware",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 69,
+		"org": "Government of Kerala",
+		"title": "Grey Water Management and Reuse, Wetland Management and Water Conservation",
+		"category": "Hardware",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 70,
+		"org": "Government of Jammu and Kashmir",
+		"title": "AI-Based Timetable Generation System aligned with NEP 2020 for Multidisciplinary Education Structures",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 71,
+		"org": "Government of Jammu and Kashmir",
+		"title": "Development of a Digital Mental Health and Psychological Support System for Students in Higher Education",
+		"category": "Software",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 72,
+		"org": "Government of Jammu and Kashmir",
+		"title": "Centralised Digital Platform for Comprehensive student activity record in HEIs",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 73,
+		"org": "Government of Jammu and Kashmir",
+		"title": "One-Stop Personalized Career & Education Advisor",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 74,
+		"org": "Autodesk",
+		"title": "Research and redesign a sport equipment commonly found in sport industry and utilize Fusion software to reimagine its design. Students can use Fusion Features such as Generative Design Topology Optimization Additive Build etc. The redesigned component should showcase innovation enhanced functionality and improved efficiency all while being optimized for 3D printing",
+		"category": "Hardware",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 75,
+		"org": "Autodesk",
+		"title": "Students are supposed to use Fusion software to generate NC code with machine details & tool library for any industrial component. Students should possess technical skills in areas such as CAD/CAM software G-code programming toolpath optimization and machining fundamentals. Additionally, their project ideas should demonstrate a viable solution to a real-world problem ensuring feasibility and practicality in implementation",
+		"category": "Hardware",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 76,
+		"org": "Autodesk",
+		"title": "Research and develop a design on autonomous small precision focused machine for planting crops or weeding",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 77,
+		"org": "Autodesk",
+		"title": "Students are tasked with designing a 4-story commercial office building using Revit Architecture and Revit Structure ensuring effective integration between architectural and structural models in a BIM environment. (The size of the plot can be assumed by the students all the dimensions wherever necessary can be assumed by students in mm units.)",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 78,
+		"org": "MathWorks India Pvt. Ltd.",
+		"title": "AI-powered monitoring of crop health soil condition and pest risks using multispectral/hyperspectral imaging and sensor data",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 79,
+		"org": "MathWorks India Pvt. Ltd.",
+		"title": "Accelerating High-Fidelity Road Network Modelling for Indian Traffic Simulations",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 80,
+		"org": "Government of Rajasthan",
+		"title": "Remote classroom for rural colleges",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 81,
+		"org": "Government of Rajasthan",
+		"title": "AI-based drop-out prediction and counselling system",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 82,
+		"org": "Government of Rajasthan",
+		"title": "ERP-based Integrated Student Management system",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 83,
+		"org": "Government of Rajasthan",
+		"title": "Language Agnostic Chatbot",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 84,
+		"org": "AICTE",
+		"title": "Develop computer programs (in any language preferably Python) to identify the design principles behind the Kolam designs and recreate the kolams",
+		"category": "Software",
+		"theme": "Heritage & Culture"
+	},
+	{
+		"id": 85,
+		"org": "Ministry of Earth Sciences (MoES)",
+		"title": "Blockchain-Based Blue Carbon Registry and MRV System",
+		"category": "Software",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 86,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Real-time based pressure measurement device to optimize orthotic design and patient outcomes",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 87,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Smart Foldable Aluminium Axillary Crutch with IoT Integration for Enhanced Mobility and Rehabilitation",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 88,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Development of a Smart Blind Stick for Enhanced Mobility and Safety of Visually Impaired Persons",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 89,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Development of an Affordable and Functional Upper Limb Prosthetic Terminal Device for Partial Hand Amputees",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 90,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Compact and Portable Soft Insert Contouring Device for 3D-Printed Prosthetic Sockets",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 91,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Dextra: switch-controlled wrist-hand orthosis for enhanced functional independence",
+		"category": "Hardware",
+		"theme": "MedTech / BioTech / HealthTech"
+	},
+	{
+		"id": 92,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Loan Utilization Tracking via Mobile",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 93,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Beneficiary Credit Scoring with Income Verification Layer for Direct Digital Lending",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 94,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Identification of Infrastructure, Amenities, and Service Gaps in SC-Majority Villages for Adarsh Gram Declaration",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 95,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Digital Mechanism for Beneficiary Identification under Grant-in-Aid (GIA) Component",
+		"category": "Software",
+		"theme": "Smart Education"
+	},
+	{
+		"id": 96,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Mapping of Implementing and Executing Agencies across PM-AJAY Components",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 97,
+		"org": "Ministry of Social Justice & Empowerment (MoSJE)",
+		"title": "Modalities for implementation of Direct Benefit Transfer (DBT) under Centrally Sponsored Scheme for effective implementation of PCR Act and PoA Act",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 98,
+		"org": "AICTE",
+		"title": "Transliterations tool for street signs",
+		"category": "Software",
+		"theme": "Heritage & Culture"
+	},
+	{
+		"id": 99,
+		"org": "AICTE",
+		"title": "Instruments in observational Astronomy",
+		"category": "Software",
+		"theme": "Heritage & Culture"
+	},
+	{
+		"id": 100,
+		"org": "AICTE",
+		"title": "Real-Time AI/ML-Based Phishing Detection and Prevention System",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 101,
+		"org": "AICTE",
+		"title": "AI-Driven Next-Generation Firewall for Dynamic Threat Detection and Zero Trust Implementation",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 102,
+		"org": "AICTE",
+		"title": "Mitigating National Security Risks Posed by Large Language Models (LLMs) in AI-Driven Malign Information Operations",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 103,
+		"org": "Bharat Electronics Limited (BEL)",
+		"title": "Automated Optical Inspection (AOI) based IC marking to identify fake marking",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 104,
+		"org": "Bharat Electronics Limited (BEL)",
+		"title": "Self-Healing Computing Elements",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 105,
+		"org": "Bharat Electronics Limited (BEL)",
+		"title": "Designing an Efficient Algorithm for Coordinated Swarm Engagement among Autonomous Drones aiming to neutralize an adversarial drone swarm",
+		"category": "Software",
+		"theme": "Robotics and Drones"
+	},
+	{
+		"id": 106,
+		"org": "Government of Gujarat",
+		"title": "Temple & Pilgrimage Crowd Management (Somnath, Dwarka, Ambaji, Pavagadh)",
+		"category": "Software",
+		"theme": "Heritage & Culture"
+	},
+	{
+		"id": 107,
+		"org": "Government of Gujarat",
+		"title": "Smart Sabarmati Riverfront & Urban Water Bodies",
+		"category": "Hardware",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 108,
+		"org": "Government of Chhattisgarh",
+		"title": "AI and IoT Powered Intelligent System for Real Time Elephant Movement Detection and Prevention of Human-Elephant Conflict (HEC) in Chhattisgarh State",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 109,
+		"org": "Ministry of Agriculture & Farmers Welfare (MoA&FW)",
+		"title": "Enhancing farmer productivity through innovative technology solutions",
+		"category": "Software",
+		"theme": "Agriculture, FoodTech & Rural Development"
+	},
+	{
+		"id": 110,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "LunaBot: Autonomous Navigation of Robot for Lunar Habitats",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 111,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Enhancing OpenAI’s GPT-OSS with Multimodal Vision Capabilities extensible to ISRO EO Data",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 112,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Optical-Guided Super-Resolution for Thermal IR Imagery",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 113,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Transformer based end-to-end Web Application Firewall (WAF) pipeline",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 114,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Conversational SIEM Assistant for Investigation and Automated Threat Reporting using NLP",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 115,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Neural Net based Android Application for Real-Time Fish Catch Identification, Health, and Volume Estimation",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 116,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "MAITRI : An AI Assistant for Psychological & Physical Well-Being of Astronauts",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 117,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "To develop AI/ML based models to predict time-varying patterns of the error build up between uploaded and modelled values of both satellite clock and ephemeris parameters of navigation satellites",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 118,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Use of measurements from the mobile phones (low cost preferred) to provide a safe autonomous navigation on the roads",
+		"category": "Software",
+		"theme": "Smart Vehicles"
+	},
+	{
+		"id": 119,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Short term forecast of gaseous air pollutants (ground-level O3 and NO2) using satellite and reanalysis data",
+		"category": "Software",
+		"theme": "Space Technology"
+	},
+	{
+		"id": 120,
+		"org": "Indian Space Research Organisation (ISRO)",
+		"title": "Quantum Secure Email Client Application",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 121,
+		"org": "Ministry of Coal (MoC)",
+		"title": "AI/ML based Auto Evaluation of R&D proposals received at NaCCER, CMPDI Ranchi",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 122,
+		"org": "Ministry of Coal (MoC)",
+		"title": "Smart PPE Compliance Monitoring and Reporting System for Underground Coal Mines",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 123,
+		"org": "Ministry of Defence (MoD)",
+		"title": "AI enabled cyber incident & safety web portal for defence",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 124,
+		"org": "Ministry of Defence (MoD)",
+		"title": "Secure closed group communication platform over existing public mobile communication networks for defence personnel and families",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 125,
+		"org": "Ministry of Development of North Eastern Region (MoDoNER)",
+		"title": "AI-Powered DPR Quality Assessment and Risk Prediction System for MDoNER",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 126,
+		"org": "Ministry of Development of North Eastern Region (MoDoNER)",
+		"title": "Design of a Sustainable, Low-Cost Geocell Road System for Landslide-Prone Rural Areas in North East India",
+		"category": "Hardware",
+		"theme": "Disaster Management"
+	},
+	{
+		"id": 127,
+		"org": "Ministry of Steel (MoS)",
+		"title": "Hot metal and Steel Ladle Tracking by auto capturing the Ladle numbers and display its location",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 128,
+		"org": "Ministry of Steel (MoS)",
+		"title": "Torpedo Ladle Container Position feedback and subsequent control of over tilting based on TLC balance Hot metal",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 129,
+		"org": "Ministry of Power (MoP)",
+		"title": "AI-Based Dynamic Contact Resistance Measurement (DCRM) Analysis for EHV Circuit Breakers",
+		"category": "Software",
+		"theme": "Renewable / Sustainable Energy"
+	},
+	{
+		"id": 130,
+		"org": "Ministry of Power (MoP)",
+		"title": "AI-Driven Frequency Response Analysis for Transformer Diagnostics via Unified Multi-Format Software",
+		"category": "Software",
+		"theme": "Clean & Green Technology"
+	},
+	{
+		"id": 131,
+		"org": "Ministry of Power (MoP)",
+		"title": "Development of AI/ML enabled Digital Twin for EHV 400/220 kV Substation",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 132,
+		"org": "Ministry of Power (MoP)",
+		"title": "Predicting Project Costs and Timeline",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 133,
+		"org": "Ministry of Power (MoP)",
+		"title": "Forecasting materials demand with machine learning for supply chain planning, procurement, and inventory optimization",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 134,
+		"org": "Ministry of Power (MoP)",
+		"title": "Intelligent Recommendation System for Personalized Individual Development Plans (IDPs)",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 135,
+		"org": "Ministry of Power (MoP)",
+		"title": "Smart Helpdesk Ticketing Solution for IT Services",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 136,
+		"org": "Ministry of Home Affairs (MHA)",
+		"title": "AI-based UFDR (Universal Forensic Extraction Device Report) Analysis Tool",
+		"category": "Software",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 137,
+		"org": "Ministry of Earth Sciences (MoES)",
+		"title": "Robotic Floating Hyperspectral Radiometer Platform for Monitoring Chlorophyll and Plastic Pollution in Aquatic Environments",
+		"category": "Hardware",
+		"theme": "Smart Automation"
+	},
+	{
+		"id": 138,
+		"org": "Government of Odisha",
+		"title": "Cybersecurity Framework for Rural Digital Banking",
+		"category": "Software",
+		"theme": "Blockchain & Cybersecurity"
+	},
+	{
+		"id": 139,
+		"org": "Government of Rajasthan",
+		"title": "Hybrid Renewable Energy Generation Solution",
+		"category": "Software",
+		"theme": "Clean & Green Technology"
+	}
+]
