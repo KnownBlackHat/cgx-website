@@ -81,6 +81,6 @@ export const FAQS = [
 	},
 	{
 		q: 'How do we choose a problem statement?',
-		a: 'Browse the problem statement explorer above — search by keyword or filter by theme and Software/Hardware category — then mention your pick and track preference in the registration form.'
+		a: 'Browse the problem statement explorer above — search by keyword or technology, or filter by track — then mention your pick and track preference in the registration form.'
 	}
 ];
