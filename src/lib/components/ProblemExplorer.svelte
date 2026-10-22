@@ -6,37 +6,45 @@
 	import ChevronDown from '@lucide/svelte/icons/chevron-down';
 	import SearchX from '@lucide/svelte/icons/search-x';
 	import statements from '#lib/problem-statements.json';
+	import { TRACKS } from '#lib/data.js';
 
 	const PAGE = 12;
-	const tracks = [...new Set(statements.map((s) => s.track))].sort();
+	const TRACK_FILTERS = [{ title: 'All', short: 'All' }, ...TRACKS];
+	const themes = [...new Set(statements.map((s) => s.theme))].sort();
 
 	const psId = (id: number) => `CGX-PS-${String(id).padStart(3, '0')}`;
 	const isHardware = (tags: string) => /robotics|hardware/i.test(tags);
 
 	let query = $state('');
-	let track = $state('');
+	let track = $state('All');
+	let theme = $state('');
 	let limit = $state(PAGE);
 	let expanded = $state<Record<number, boolean>>({});
 
 	const filtered = $derived.by(() => {
 		const terms = query.toLowerCase().split(/\s+/).filter(Boolean);
 		return statements.filter((s) => {
-			if (track && s.track !== track) return false;
+			if (track !== 'All' && s.track !== track) return false;
+			if (theme && s.theme !== theme) return false;
 			const haystack =
-				`${s.title} ${s.brief} ${s.tags} ${s.track} ${s.potential} ${psId(s.id)}`.toLowerCase();
+				`${s.title} ${s.brief} ${s.tags} ${s.theme} ${s.potential} ${psId(s.id)}`.toLowerCase();
 			return terms.every((t) => haystack.includes(t));
 		});
 	});
 	const visible = $derived(filtered.slice(0, limit));
 
+	const countFor = (t: string) =>
+		t === 'All' ? statements.length : statements.filter((s) => s.track === t).length;
+
 	function reset() {
 		query = '';
-		track = '';
+		track = 'All';
+		theme = '';
 	}
 
 	// Any filter change starts the list from the top again.
 	$effect(() => {
-		void [query, track];
+		void [query, track, theme];
 		limit = PAGE;
 	});
 </script>
@@ -48,7 +56,7 @@
 				<span class="text-neon/50">//</span> Problem statement explorer
 			</p>
 			<h3 class="mt-3 font-display text-2xl font-bold text-white sm:text-3xl">
-				{statements.length} challenges. {tracks.length} tracks.
+				{statements.length} challenges. {TRACKS.length} tracks. {themes.length} themes.
 			</h3>
 		</div>
 		<p class="font-mono text-sm text-slate-400" aria-live="polite">
@@ -57,7 +65,7 @@
 		</p>
 	</div>
 
-	<div class="mt-6 grid gap-3 rounded-2xl p-3 glass sm:p-4 lg:grid-cols-[1fr_auto]">
+	<div class="mt-6 grid gap-3 rounded-2xl p-3 glass sm:p-4 lg:grid-cols-[1fr_auto_auto]">
 		<label class="relative block">
 			<span class="sr-only">Search problem statements</span>
 			<Search
@@ -71,14 +79,35 @@
 			/>
 		</label>
 
+		<div
+			class="flex h-12 rounded-xl border border-neon/15 bg-void/60 p-1"
+			role="radiogroup"
+			aria-label="Track"
+		>
+			{#each TRACK_FILTERS as t (t.title)}
+				<button
+					type="button"
+					role="radio"
+					aria-checked={track === t.title}
+					onclick={() => (track = t.title)}
+					class="flex-1 rounded-lg px-2 text-sm font-medium whitespace-nowrap transition sm:px-4 {track ===
+					t.title
+						? 'bg-neon text-void shadow-[0_0_16px_rgba(0,229,255,0.45)]'
+						: 'text-slate-300 hover:text-white'}"
+				>
+					{t.short} <span class="font-mono text-xs opacity-70">{countFor(t.title)}</span>
+				</button>
+			{/each}
+		</div>
+
 		<label class="relative block">
-			<span class="sr-only">Filter by track</span>
+			<span class="sr-only">Filter by theme</span>
 			<select
-				bind:value={track}
-				class="h-12 w-full appearance-none rounded-xl border border-neon/15 bg-void/60 pr-10 pl-4 text-sm text-white focus:border-neon/60 focus:outline-none lg:w-80"
+				bind:value={theme}
+				class="h-12 w-full appearance-none rounded-xl border border-neon/15 bg-void/60 pr-10 pl-4 text-sm text-white focus:border-neon/60 focus:outline-none lg:w-72"
 			>
-				<option value="">All tracks</option>
-				{#each tracks as t}
+				<option value="">All themes</option>
+				{#each themes as t}
 					<option value={t}>{t}</option>
 				{/each}
 			</select>
@@ -150,11 +179,11 @@
 						</p>
 						<button
 							type="button"
-							onclick={() => (track = ps.track)}
+							onclick={() => (theme = ps.theme)}
 							class="rounded-md bg-white/5 px-2 py-1 text-left text-xs text-slate-300 transition hover:bg-neon/10 hover:text-neon"
-							title="Show all {ps.track} statements"
+							title="Show all {ps.theme} statements"
 						>
-							# {ps.track}
+							# {ps.theme}
 						</button>
 					</div>
 				</li>

@@ -17,16 +17,19 @@ export const STATS = [
 export const TRACKS = [
 	{
 		title: 'Artificial Intelligence',
+		short: 'AI',
 		icon: Brain,
 		tagline: 'Build intelligent solutions for real-world problems.'
 	},
 	{
 		title: 'Robotics',
+		short: 'Robotics',
 		icon: Bot,
 		tagline: 'Create, automate, and innovate with intelligent machines.'
 	},
 	{
 		title: 'Cybersecurity',
+		short: 'Cyber',
 		icon: ShieldCheck,
 		tagline: 'Make the digital world safer for everyone.'
 	}
@@ -81,6 +84,6 @@ export const FAQS = [
 	},
 	{
 		q: 'How do we choose a problem statement?',
-		a: 'Browse the problem statement explorer above — search by keyword or technology, or filter by track — then mention your pick and track preference in the registration form.'
+		a: 'Browse the problem statement explorer above — search by keyword, or filter by track and theme — then mention your pick and track preference in the registration form.'
 	}
 ];

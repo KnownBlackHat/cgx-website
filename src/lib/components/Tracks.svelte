@@ -3,6 +3,9 @@
 	import { reveal, tilt } from '#lib/actions.js';
 	import SectionHeading from './SectionHeading.svelte';
 	import ProblemExplorer from './ProblemExplorer.svelte';
+	import statements from '#lib/problem-statements.json';
+
+	const countFor = (track: string) => statements.filter((s) => s.track === track).length;
 </script>
 
 <section id="tracks" class="relative py-20 sm:py-28">
@@ -12,8 +15,8 @@
 	></div>
 	<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 		<SectionHeading kicker="Themes & Problem Statements" title="Choose Your Battleground">
-			Three tracks and a bank of real-world problem statements. Pick the challenge that fires you up
-			and build something that matters.
+			Three tracks and {statements.length} real-world problem statements. Pick the challenge that fires
+			you up and build something that matters.
 		</SectionHeading>
 
 		<div class="mt-14 grid gap-6 lg:grid-cols-3">
@@ -35,6 +38,9 @@
 							{track.title}
 						</h3>
 						<p class="mt-2 text-slate-400">{track.tagline}</p>
+						<p class="mt-5 font-mono text-sm text-neon">
+							{countFor(track.title)} <span class="text-slate-500">problem statements</span>
+						</p>
 					</article>
 				</div>
 			{/each}
