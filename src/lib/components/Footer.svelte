@@ -10,6 +10,7 @@
 
 	const socials = [
 		{ label: 'Instagram', href: SOCIALS.instagram, path: siInstagram.path },
+		{ label: 'Instagram', href: SOCIALS.instagram2, path: siInstagram.path },
 		{ label: 'LinkedIn', href: SOCIALS.linkedin, path: linkedinPath },
 		{ label: 'X', href: SOCIALS.x, path: siX.path },
 		{ label: 'GitHub', href: SOCIALS.github, path: siGithub.path },

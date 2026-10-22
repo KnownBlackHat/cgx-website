@@ -8,7 +8,8 @@ export const VENUE = 'Greater Noida';
 // Leave a link empty to hide its icon in the footer.
 export const SOCIALS = {
 	instagram: 'https://www.instagram.com/cybergenixsecurity/',
-	linkedin: '',
+	instagram2: 'https://www.instagram.com/tejassswee/',
+	linkedin: 'https://in.linkedin.com/company/cybergenix-security',
 	x: '',
 	github: '',
 	discord: ''
